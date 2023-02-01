@@ -3,7 +3,7 @@ body{
 }
 
 #titulo{
-    background-image: url("header2.jpg");
+    background-image: url("../img/nubes.jpg");
     background-size: cover;
     background-position: center center;
     text-align: center;
